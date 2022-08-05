@@ -1,0 +1,22 @@
+.Product{
+    margin-top: 40px;
+    margin-left: 15px;
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+    /* border: 10px solid black; */
+    width: 15%;
+}
+
+.Product .product-image{
+    width: 80%;
+    height: 30%;
+    background-color: pink;
+    margin-left: .5rem;
+} 
+
+.btn{
+    margin-right: 5px;
+    margin-bottom: 5px;
+}

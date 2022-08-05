@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stackline-assessment/static/css/main.e5cf40ce.css",
+    "main.js": "/stackline-assessment/static/js/main.df952f90.js",
+    "static/js/787.554850f0.chunk.js": "/stackline-assessment/static/js/787.554850f0.chunk.js",
+    "index.html": "/stackline-assessment/index.html",
+    "main.e5cf40ce.css.map": "/stackline-assessment/static/css/main.e5cf40ce.css.map",
+    "main.df952f90.js.map": "/stackline-assessment/static/js/main.df952f90.js.map",
+    "787.554850f0.chunk.js.map": "/stackline-assessment/static/js/787.554850f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5cf40ce.css",
+    "static/js/main.df952f90.js"
+  ]
+}
